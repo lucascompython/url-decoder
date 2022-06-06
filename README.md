@@ -1,4 +1,4 @@
-# Speed comparison of programming languages 
+# URL Decoder
 
 This is a really simple script in python to decode any given URL like string(e.g., 69%20SUS%2069).
 
